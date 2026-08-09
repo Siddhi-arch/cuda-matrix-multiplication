@@ -3,7 +3,8 @@ GPU Accelerated Matrix Multiplication using CUDA
 This project implements matrix multiplication using CUDA parallel computing and compares GPU performance with CPU execution.
 
 Technologies Used
-CUDA, C++
+- CUDA
+- C++
 
 Features
 - Parallel matrix multiplication using CUDA kernels
